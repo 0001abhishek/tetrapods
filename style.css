@@ -1,0 +1,137 @@
+
+
+.nav-link {
+    margin-left: 25px;
+}
+
+.content {
+    background-image: url(309560-ballet-wallpaper-top-free-ballet-background.jpg);
+    
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+
+.btn {
+    background-color: #d63384;
+    color: white;
+    transition: 0.5s ease-in-out;
+    
+}
+
+.btn:hover {
+    background-color: white;
+    color: #d63384;
+    border: 2px solid #d63384;
+}
+
+
+#content_for_text {
+    color: beige;
+  
+}
+
+.raj {
+    padding-top: 30vh;
+}
+
+hr {
+    width: 30vh;
+    color: purple;
+}
+
+.card {
+    background-color: transparent;
+    color: azure;
+}
+
+#services {
+    background-image: url(Swan-Lake-Tchaikovsky-56a153f73df78cf77269ac9f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+i {
+    display: inline-flex;
+   font-size: 40px;
+   color: black;
+   background-color: white;
+   background-attachment: fixed;
+   border-radius: 50%;
+   height: 80px;
+   width: 80px;
+   margin-left: auto;
+   margin-right: auto;
+   align-items: center;
+   justify-content: center;
+}
+#hover:hover {
+    background-color: aqua;
+    cursor: pointer;
+    
+} 
+
+
+
+.icons {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 0%;
+    /* width: 70%;
+    height: 70%; */
+    
+}
+
+.form {
+    width: 100%;
+}
+
+.styles {
+    text-decoration: none;
+    color: white;
+}
+/* 
+#footer {
+    text-decoration: none;
+    
+}
+
+#footer:hover {
+    color: #d63384;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media only screen and (max-width: 600px) {
+
+    iframe {
+        height: 900px;
+    }
+ 
+  } 
+
+
+ @media only screen and (max-width: 590px) {
+
+     .mobile {
+        margin-left: -28px;
+     }
+ 
+  } 
